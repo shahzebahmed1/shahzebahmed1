@@ -7,7 +7,7 @@ I am a third-year software engineering student at University of Calgary, passion
 
 - 🤖 Exploring Web Development with HTML, CSS and React.
 
-Check out my [coding portfolio!](shahzebahmed.com)
+Check out my [coding portfolio!](https://www.shahzebahmed.com)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzebahmed1/)

@@ -6,6 +6,8 @@ I am a third-year software engineering student at University of Calgary, passion
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Web Development with HTML, CSS and React.
+- 📊 Building interactive data visualizations using Python (e.g., Matplotlib, Plotly).
+- 🌐 Delving into foundational concepts in computer networking (e.g., TCP/IP, DNS, HTTP/HTTPS).
 
 Check out my [coding portfolio!](https://www.shahzebahmed.com)
 

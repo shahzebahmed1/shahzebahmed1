@@ -9,7 +9,7 @@ I am a third-year software engineering student at University of Calgary, passion
 - 📊 Building interactive data visualizations using Python (e.g., Matplotlib, Plotly).
 - 🌐 Delving into foundational concepts in computer networking (e.g., TCP/IP, DNS, HTTP/HTTPS).
 
-Check out my [coding portfolio!](https://www.shahzebahmed.com)
+Check out my [startup!](https://www.genlabs.ca)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzebahmed1/)
